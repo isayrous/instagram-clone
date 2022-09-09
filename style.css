@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+
+body {
+    background: #FAFAFA ;
+    width: 100vw;
+    height: 100vh;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-imgs {
+    position: relative;
+}
+
+.logo-insta {
+    width: 175px;
+    height: 51px;
+    margin: 0px 30px 30px 30px;
+}
+
+.img-left {
+    width: 450px;
+}
+
+.looping {
+    height: 521px;
+    position: absolute;
+    left: 152px;
+    top:27px;
+    transition: opacity 2s ease-in-out;
+}
+
+.container-right {
+    width: 350px;
+}
+
+.container-forms {
+    flex-direction: column;
+    display: flex;
+    border: 1px solid #dbdbdb;
+    padding: 40px 30px 40px 48px ;
+    background: #ffffff;
+}
+
+.nao-tem-conta {
+    flex-direction: column;
+    display: flex;
+    border: 1px solid #dbdbdb;
+    padding: 20px;
+    background: #ffffff;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.menu-imgs {
+    width: 136px;
+    height: 40px;
+    cursor: pointer;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    margin-top: 25px;
+}
+
+input {
+    margin-top: 5px;
+    border: 1px solid #dbdbdb;
+    background-color: #FAFAFA;
+    width: 250px;
+    height: 36px;
+    padding: 9px 0px 7px 8px;
+    border-radius: 3px;
+    outline: none;
+}
+
+button {
+    margin-top: 15px;
+    background-color: rgb(68, 70, 200);
+    color: #FAFAFA;
+    cursor: pointer;
+    height: 30px;
+    width: 250px;
+    border-radius: 3px;
+    border: 1px solid #ffffff;
+    background-color: #0095f6;
+}
+
+.fb-link {
+    color: #385185;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.login-facebook {
+    font-weight: bold;
+    color: #385185;
+    text-align: center;
+    font-size: 14px;
+    
+}
+
+.esqueceu-senha {
+    font-size: 12px;
+    text-align: center;
+}
+
+.nao-tem-conta {
+    text-align: center;
+    font-size: 14px;
+}
+#obtenha {
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+}
