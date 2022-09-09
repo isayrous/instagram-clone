@@ -42,16 +42,14 @@
 </body>
 
 <script>
-    let imagem = document.getElementById("troca-img")
+    let imagem1 = document.getElementById("troca-img")
 
     function trocaImagem(){
-        if(imagem.style.opacity == 0)
-            imagem.style.opacity = 1
+        if(imagem1.style.opacity == 0){
+            imagem1.style.opacity = 1}
         else{
-            imagem.style.opacity = 0
+            imagem1.style.opacity = 0}
         }
-    }
-
     setInterval(function() {
         trocaImagem()
     }, 4000);

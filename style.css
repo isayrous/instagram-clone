@@ -130,3 +130,25 @@ button {
 a {
     text-decoration: none;
 }
+
+@media screen and (max-width: 900px){
+    .container-imgs {
+        display: none;
+    }
+    
+    body {
+        background-color: #fafafa;
+    }
+    
+    .container-forms {
+        background-color: #fafafa;
+        border: none;
+        padding: 40px 30px 40px 48px ;
+    }
+    
+    .nao-tem-conta {
+        border: none;
+        background-color: #FAFAFA;
+    }
+    
+    }
