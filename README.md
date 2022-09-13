@@ -9,6 +9,6 @@
 <br>
 <img src="https://github.com/isayrous/instagram-clone/blob/master/Instagram_clone_img.png" width="960px"/>
 <br>
-<h3>No vídeo abaixo mostro o funcionamento do projeto, como também o comparo com a tela de Login original, do instagram. Demonstro também os links funcionando, de download para Android e IOS.</h3>
+<h3>No vídeo abaixo mostro o funcionamento do projeto, como também o comparo com a tela de Login original, do instagram. Demonstro também os links funcionais de direcionamento de download para Android e IOS.</h3>
 <video src="https://user-images.githubusercontent.com/111534893/190028337-5c898823-77d3-445b-a7e9-7d82265c4671.mp4">
 <br>
